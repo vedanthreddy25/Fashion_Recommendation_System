@@ -10,6 +10,7 @@ The **Fashion Recommendation System** is designed to enhance the online shopping
 - Deploy the solution via **Streamlit** for real-time user interaction.
 
 ## 📂 Dataset
+- **Dataset Link:** [Fashion Product Images Dataset](https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset)
 - **Dataset Name:** Fashion Product Images
 - **Size:** 44.4k high-resolution images
 - **Categories:** Shirts, dresses, shoes, jackets, accessories, etc.

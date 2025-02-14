@@ -47,7 +47,7 @@ The **Fashion Recommendation System** is designed to enhance the online shopping
 - The **recommendation engine** provided relevant and diverse product suggestions.
 
 <p align="center">
-    <img src="output1.png" width="400" height="300">
+    <img src="output1.png" width="700" height="400">
 </p>
 
 <p align="center">
